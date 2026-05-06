@@ -1,6 +1,6 @@
 # Digital Banking App - Flutter + Django
 
-Premium mobile banking demo UI matching the provided reference style.
+modern mobile banking app demo 
 
 ## Included screens
 - Splash screen
