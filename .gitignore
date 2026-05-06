@@ -1,0 +1,27 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+
+# Frontend Flutter
+frontend_flutter/build/
+frontend_flutter/.dart_tool/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.tmp

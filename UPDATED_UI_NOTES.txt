@@ -1,0 +1,17 @@
+Updated version:
+- Premium red banking dashboard like the reference image
+- Top services grid: Send money, Buy airtime, Buy data, Electricity, Pay bills, Foreign currency, Lifestyle, More
+- Quick transfer beneficiaries with pre-filled UPI payment screen
+- Recent transactions on home screen
+- Bottom navigation: Home, Banking, Transactions, Profile
+- Kotlin plugin upgraded to 2.1.0
+
+Run backend first:
+cd backend_django
+python manage.py runserver 0.0.0.0:8000
+
+Run Flutter:
+cd frontend_flutter
+flutter clean
+flutter pub get
+flutter run -d emulator-5554

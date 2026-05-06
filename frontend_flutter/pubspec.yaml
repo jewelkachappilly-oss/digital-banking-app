@@ -1,0 +1,16 @@
+name: premium_banking_ui
+description: Digital Banking App connected with Django backend
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  cupertino_icons: ^1.0.8
+
+flutter:
+  uses-material-design: true
